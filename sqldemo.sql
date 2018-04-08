@@ -7,5 +7,4 @@ begin
 	end loop;
 	
 end;
-commit;	
-select * from sale;
+commit;
