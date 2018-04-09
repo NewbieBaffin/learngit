@@ -8,4 +8,4 @@ begin
 	
 end;
 commit;
-select date from sale;
+select saledate from sale;
