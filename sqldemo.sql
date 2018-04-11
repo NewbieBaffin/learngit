@@ -9,3 +9,4 @@ begin
 end;
 commit;
 select saledate from sale;
+select saleamount from sale;
